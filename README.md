@@ -1,2 +1,10 @@
-# telegram-nft-avatar-frames-concept
-Concept idea for Telegram: NFT Avatar Frames based on NFT Gifts that appear around profile pictures and add wearable profile cosmetics.
+# Telegram Feature Idea
+
+## NFT Avatar Frames
+
+NFT Avatar Frames that appear around profile pictures when you own NFT Gifts.
+
+This would make NFT Gifts wearable profile cosmetics and add visual rarity to profiles.
+
+## Concept
+https://bugs.telegram.org/c/59789
